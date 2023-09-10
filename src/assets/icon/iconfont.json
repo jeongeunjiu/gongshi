@@ -1,0 +1,23 @@
+{
+  "id": "4210580",
+  "name": "简介",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "公司介绍",
+  "glyphs": [
+    {
+      "icon_id": "21828268",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "17396087",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    }
+  ]
+}
